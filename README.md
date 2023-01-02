@@ -1,7 +1,7 @@
 # Data-Analysis-with-Python
 Note: I have used Jupyter Notebook for this project.
 
-For this project I have used ### Python Pandas & Python Matplotlib to analyze and answer business questions about 12 months’ worth of sales data. The data contains data about electronics store purchases by month, product type, cost, purchase address, etc.
+For this project I have used Python Pandas & Python Matplotlib to analyze and answer business questions about 12 months’ worth of sales data. The data contains data about electronics store purchases by month, product type, cost, purchase address, etc.
 
 I start with cleaning the data which included:
 •	Drop NaN values from DataFrame
